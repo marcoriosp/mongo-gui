@@ -8,4 +8,4 @@ services:
     ports:
       - "4321:4321"
     environment:
-      - MONGO_URL=mongodb://localhost:27017
+      - MONGO_URL=mongodb://dirsal_mdb001:<*w22<IKb^.JxCX@cluster1.db.dirsal.com:27017/?authSource=dirsal_artistData&authMechanism=SCRAM-SHA-256&directConnection=true&ssl=false
